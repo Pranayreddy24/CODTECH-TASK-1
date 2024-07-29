@@ -22,29 +22,31 @@ Project: EXPLORATORY DATA ANALYSIS (EDA)
 ![image](https://github.com/user-attachments/assets/22c88665-c111-456a-8c3b-e13a18e43c13)
 ![image](https://github.com/user-attachments/assets/6ee8a470-d8d6-4d70-b678-8f00f25ca819)
 ![image](https://github.com/user-attachments/assets/2a793adb-628e-4d5d-88e3-3dcc11237a65)
-
 Objectives:
+
   -Perform exploratory data analysis (EDA) on a dataset to understand its characteristics, distributions, correlations, and outliers.
   -Visualize the findings using various plots to gain insights into the data.
-
+  
 Key Activities:
-  1.Data Loading: Load the dataset using pandas.
-  2.Data Cleaning: Handle missing values, duplicates, and any inconsistencies in the data.
-  3.Data Exploration:
-    -Summary Statistics: Compute summary statistics like mean, median, standard deviation, etc.
-    -Distribution Analysis: Plot histograms and box plots to understand the distribution of variables.
-    -Correlation Analysis: Compute and visualize correlations between variables using heatmaps.
-    -Outlier Detection: Identify and visualize outliers using scatter plots and box plots.
-  4.Data Visualization: Use matplotlib and seaborn to create various plots for visualizing the data.
+
+  -Data Loading: Load the dataset using pandas.
+  -Data Cleaning: Handle missing values, duplicates, and any inconsistencies in the data.
+  -Data Exploration:
+  -Summary Statistics: Compute summary statistics like mean, median, standard deviation, etc.
+  -Distribution Analysis: Plot histograms and box plots to understand the distribution of variables.
+  -Correlation Analysis: Compute and visualize correlations between variables using heatmaps.
+  -Outlier Detection: Identify and visualize outliers using scatter plots and box plots.
+  -Data Visualization: Use matplotlib and seaborn to create various plots for visualizing the data.
 
 Technologies Used:
+
   -Python: The programming language used for the analysis.
   -pandas: For data manipulation and analysis.
   -numpy: For numerical operations.
   -matplotlib: For creating static, animated, and interactive visualizations.
   -seaborn: For statistical data visualization based on matplotlib.
-
 Key Insights:
-  1.Distribution of Variables: Histograms and box plots revealed the distribution of the data, highlighting skewness and the presence of outliers.
-  2.Correlation between Variables: Heatmaps showed significant correlations between certain pairs of variables, indicating potential relationships.
-  3.Outliers: Scatter plots and box plots identified outliers, which could be important for further analysis or modeling.
+
+  -Distribution of Variables: Histograms and box plots revealed the distribution of the data, highlighting skewness and the presence of outliers.
+  -Correlation between Variables: Heatmaps showed significant correlations between certain pairs of variables, indicating potential relationships.
+  -Outliers: Scatter plots and box plots identified outliers, which could be important for further analysis or modeling.
